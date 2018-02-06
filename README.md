@@ -1,8 +1,11 @@
 # deep_learning_projects
 
-* experiments on mnist dataset
+This repository contains all deep learning projects I have done. Descriptions for each projects are:
 
-* udacity deep learning course ud730
+
+* mnist_recognition: experiments on mnist dataset
+
+* udacity_ud730: udacity deep learning course https://in.udacity.com/course/deep-learning--ud730
 
 * experiments on nMnist and fashionMnist dataset
 
